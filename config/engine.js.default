@@ -1,0 +1,5 @@
+module.exports = {
+    speed: 1000,
+    duration: 100,
+    repeat: 2
+};

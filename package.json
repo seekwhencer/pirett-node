@@ -1,0 +1,16 @@
+{
+  "name": "pirett-node",
+  "version": "0.0.1",
+  "description": "hacked usb toy turret",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^1.7.0",
+    "keypress": "^0.2.1",
+    "rpi-gpio": "^0.9.1"
+  }
+}
